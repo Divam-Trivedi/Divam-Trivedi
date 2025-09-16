@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=divam-trivedi&label=Profile%20views&color=0e75b6&style=flat" alt="divam-trivedi" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=divam-trivedi" alt="divam-trivedi" /></a> </p>
-
 - 🔭 I’m currently working on **Autonomous Perception of Roboot for Nursing Tasks**
 
 - 🌱 I’m currently learning **Robot Controls**
